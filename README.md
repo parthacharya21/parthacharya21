@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @parthacharya21
 - 👀 I’m interested in Cloud security
-- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Cloud security Projects
 - 📫 How to reach me parthacharya21@gmail.com
 
